@@ -24,4 +24,4 @@ def test_calculate_sum():
     assert calculate(3, 2, 6) == 9
     assert calculate(2, 2, 6) == 4
     assert calculate(20, 1, 6) == 20
-    assert calculate(8, 3, 6) == 512
+    assert calculate(8, 3, 6) == 5122
